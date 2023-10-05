@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg -g 1920x1080 --bg-fill '/home/matt/.wallpaper/midgar.jpg'
