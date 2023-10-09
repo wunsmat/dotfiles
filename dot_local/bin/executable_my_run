@@ -1,0 +1,6 @@
+#!/bin/bash
+
+dmenu_run \
+  -i \
+  -fn 'FiraCode Nerd Font Mono-14' \
+  -nf "#c0caf5" -nb "#24283b" -sf "#c8d3f5" -sb "#292e42"
