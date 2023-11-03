@@ -1,6 +1,8 @@
 export HISTFILE="$HOME/.zsh_history"
 export HISTSIZE=5000000
 export SAVEHIST=5000000
+export EDITOR="nvim"
+
 setopt HIST_IGNORE_ALL_DUPS
 setopt HIST_FIND_NO_DUPS
 
